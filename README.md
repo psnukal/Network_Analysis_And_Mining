@@ -38,13 +38,31 @@ iii. Small-world model<br>
 2. Analysis (4 marks)
 Theme of the analysis: What you know of the story and is it matching with what you got
 from your network analysis? Have you got any insight to offer ?
+
 a. Who are the protagonists as per your analysis? If the 4 centralities are not
 having high correlation, how do you interpret them?
+
 b. What do the clustering coefficients, discovered communities, extracted ego
 network of protagonists and average shortest path tell you about the dynamics
 in the story? How is clustering coefficient related to transitivity of nodes?
+
 c. Compare all the generated graphs (from (f)) to the actual graph. Is there a
 difference, and if yes, what can it be attributed to? Also, analyze the differences
 between the 3 generated graph’s attributes.
+
 d. Feel free to do any appropriate visualization using Gephi only to substantiate
 your analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
