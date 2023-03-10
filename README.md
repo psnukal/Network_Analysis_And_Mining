@@ -1,6 +1,6 @@
 # Network_Analysis_And_Mining
 
-1. Implementation (6 marks) :
+1.Implementation (6 marks) :
 
 a. Make a list of characters in the novel. You need to decide whom to include. For
 example, for Mahabharata, there is no point in including a character
@@ -18,17 +18,17 @@ d. Calculate the global clustering coefficient of your graph and local clusterin
 coefficient of the main protagonist nodes. (Ref : Unit 2 – Measures of cohesion)
 
 e. Detect communities using the following methods: (Ref : Unit 2 – Measures of
-cohesion)
-i. K - clique (percolation method)
-ii. Louvain community detection
-iii. Girvann Newman
+cohesion)<br>
+i. K - clique (percolation method)<br>
+ii. Louvain community detection<br>
+iii. Girvann Newman<br>
 
 f. Find the degree distribution, average shortest path, and size of the largest
 component. Also create equivalent generative models to compare against the
-social graph that you extracted (Ref: unit 3 - Generative models)
-i. G(n,p) and G(n,m) generated graph
-ii. Preferential attachment
-iii. Small-world model
+social graph that you extracted (Ref: unit 3 - Generative models)<br>
+i. G(n,p) and G(n,m) generated graph<br>
+ii. Preferential attachment<br>
+iii. Small-world model<br>
 
 
 <br>
